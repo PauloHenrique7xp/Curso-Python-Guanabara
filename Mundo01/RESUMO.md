@@ -59,4 +59,4 @@ Todos os exercícios foram feitos em **Python**.
 Para rodar qualquer exercício, use o comando:
 
 ```bash
-python ex/numero/.py
+python Mundo01/ex001.py
