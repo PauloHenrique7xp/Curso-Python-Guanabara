@@ -1,0 +1,11 @@
+# Ambientes virtuais
+venv/
+__pycache__/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais de IDE
+.vscode/
+.idea/
